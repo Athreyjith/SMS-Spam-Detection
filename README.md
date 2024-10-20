@@ -4,16 +4,15 @@ This project aims to build a machine learning model capable of detecting spam me
 
 git clone https://github.com/Athreyjith/SMS-Spam-detection.git
 
-Installation
+Installation<br>
 
-pip install -r requirements.txt
-jupyter notebook
-pip install notebook
-!pip install numpy pandas scikit-learn
-python train_model.py
+pip install -r requirements.txt <br>
+jupyter notebook<br>
+pip install notebook<br>
+!pip install numpy pandas scikit-learn<br>
+python train_model.py<br>
 
-Host
 Navigate to http://localhost:5000 in your web browser.
 
-Dataset
+Dataset<br>
 The dataset used for training and evaluation is a collection of labeled SMS messages, typically with the label "spam" or "ham." A common dataset for this purpose is the SMS Spam Collection Dataset.
